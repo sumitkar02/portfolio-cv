@@ -1,6 +1,6 @@
 # 🌐 Portfolio CV — Sumit Kar
 
-A modern, responsive **Full Stack Developer Portfolio Website** built with clean HTML, CSS, and JavaScript. This project showcases my skills, projects, and contact information with a polished UI, dark mode support, and accessibility-first design.
+A responsive portfolio website built using HTML, CSS, and JavaScript as a front-end development project. This demo showcases layout design, UI structure, dark mode implementation, and accessibility-focused styling. Content is sample/demo data for presentation purposes.
 
 ---
 
